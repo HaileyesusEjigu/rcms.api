@@ -36,3 +36,6 @@ const addition1=(a,b)=>{
     return a+b;
 };
 console.log(addition1(4,5));
+new Promise((resolve, reject) => {
+    
+})
